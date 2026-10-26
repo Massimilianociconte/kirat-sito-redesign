@@ -1,0 +1,27 @@
+{
+ "name": "KIRAT",
+ "short_name": "KIRAT",
+ "lang": "it",
+ "start_url": "/kirat-sito-redesign/",
+ "display": "standalone",
+ "background_color": "#f8f2e8",
+ "theme_color": "#2a1810",
+ "icons": [
+  {
+   "src": "/kirat-sito-redesign/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/kirat-sito-redesign/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/kirat-sito-redesign/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
